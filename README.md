@@ -31,6 +31,16 @@ A web application dedicated to reducing food waste by connecting donors with tho
 - Responsive Design
 - RESTful APIs
 - Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.com/abhay2610/)
+
+Check out my LeetCode profile for real-time problem-solving stats and difficulty breakdown:
+- 🎯 **[Visit My LeetCode Profile](https://leetcode.com/abhay2610/)**
 
 ---
 
@@ -45,6 +55,7 @@ A web application dedicated to reducing food waste by connecting donors with tho
 
 - 💼 LinkedIn: [linkedin.com/in/abhaykatiyar2610](https://www.linkedin.com/in/abhaykatiyar2610/)
 - 💻 GitHub: [@katiyarabhay](https://github.com/katiyarabhay)
+- 🎯 LeetCode: [abhay2610](https://leetcode.com/abhay2610/)
 
 ---
 
