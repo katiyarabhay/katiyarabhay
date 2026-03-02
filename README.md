@@ -37,7 +37,7 @@ A web application dedicated to reducing food waste by connecting donors with tho
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://github-readme-leetcode-card.vercel.app/api?username=abhay2610&theme=radical)
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/abhay2610?theme=radical)
 
 Check out my LeetCode profile for real-time problem-solving stats and difficulty breakdown:
 - 🎯 **[Visit My LeetCode Profile](https://leetcode.com/abhay2610/)**
