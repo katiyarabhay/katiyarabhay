@@ -21,6 +21,7 @@ A web application dedicated to reducing food waste by connecting donors with tho
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![JAVA]([https://img.shields.io/badge/-CSS3-blue?logo=css3](https://img.shields.io/badge/-Java-orange?logo=openjdk&logoColor=white))
   
 ---
 
