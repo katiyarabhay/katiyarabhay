@@ -56,7 +56,7 @@ Check out my LeetCode profile for real-time problem-solving stats and difficulty
 
 - 💼 LinkedIn: [linkedin.com/in/abhaykatiyar2610](https://www.linkedin.com/in/abhaykatiyar2610/)
 - 💻 GitHub: [@katiyarabhay](https://github.com/katiyarabhay)
-- 🎯 LeetCode: [abhay2610](https://leetcode.com/abhay2610/)
+- 🎯 LeetCode: [abhay2610](https://leetcode.com/abhayakatiyar/)
 
 ---
 
